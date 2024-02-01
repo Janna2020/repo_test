@@ -1,1 +1,2 @@
-print("bonjour, je m'appelle toto")
+!pip install spacy_transformers
+! pip install -U spacy
